@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Protfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Sep 2021 00:50:17 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BCS</title>
+      <link>http://example.org/posts/bcs/</link>
+      <pubDate>Mon, 20 Sep 2021 00:50:17 +0300</pubDate>
+      
+      <guid>http://example.org/posts/bcs/</guid>
+      <description>Faculty of Automatic Control and Computers Polytechnic University of Bucharest one of the most prestigious bachelor&amp;rsquo;s degree in Romania
+September 2017 - July 2021 Some of the most important courses were:
+ Parallel and Distributed Algorithms Low level programming (Assembly) Operating Systems Programming Paradigms Database Administration  </description>
+    </item>
+    
+    <item>
+      <title>Colliers</title>
+      <link>http://example.org/posts/colliers/</link>
+      <pubDate>Mon, 20 Sep 2021 00:50:17 +0300</pubDate>
+      
+      <guid>http://example.org/posts/colliers/</guid>
+      <description>January 2020 - Present Contract  scrape data from various real estate websites run machine learning algorithms to predict prices based on cluster execute database queries to format and autocomplete data used technologies: Python, MongoDB, Linux, AWS EC2, S3  </description>
+    </item>
+    
+    <item>
+      <title>Luxoft - Cisco</title>
+      <link>http://example.org/posts/luxoft_cisco/</link>
+      <pubDate>Mon, 20 Sep 2021 00:50:17 +0300</pubDate>
+      
+      <guid>http://example.org/posts/luxoft_cisco/</guid>
+      <description>May 2020 - January 2021  develop solutions to everyday problems that occur through our cloud based network and add extra features ensure security between the K8s pods - spiffe spire improve the network performance with tools like used technologies: Go, Kubernetes, Docker, Bash, CircleCI/Jenkins, Python in an Agile environment  </description>
+    </item>
+    
+    <item>
+      <title>Toyota</title>
+      <link>http://example.org/posts/toyota/</link>
+      <pubDate>Mon, 20 Sep 2021 00:50:17 +0300</pubDate>
+      
+      <guid>http://example.org/posts/toyota/</guid>
+      <description>June 2019 - September 2019  design storage deposit layout using Kollmorgen suite get used to logistical thinking  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/description/</guid>
+      <description>Contact:
+ mail: opreacata17@gmail.com www.linkedin.com/in/catalinux  Hi I am Cătălin Oprea! I have a desire to:
+ develop good products improve my knowledge  Skills:
+ Golang, Kubernetes, Docker, Linux Python, C, JS, React MongoDB, SQL DBs, AWS  Languages:
+ English - Intermediate Romanian - Native  </description>
+    </item>
+    
+  </channel>
+</rss>
